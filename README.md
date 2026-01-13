@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# uni-pro
-=======
+
+
 # postmanify-express
 
 A simple and lightweight package for automating the generation of Postman collections directly from API source code .🚀
